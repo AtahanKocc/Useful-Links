@@ -36,19 +36,19 @@
 
 ## Images
 
-🔹 [Pexels] (https://www.pexels.com/tr-tr/)
-🔹 [Unsplash] (https://unsplash.com/)
-🔹 [Shoify Stock Photos] (https://www.pexels.com/tr-tr/)
-🔹 [Pexels] (https://www.shopify.com/stock-photos)
+🔹 [Pexels] (https://www.pexels.com/tr-tr/) <br>
+🔹 [Unsplash] (https://unsplash.com/) <br>
+🔹 [Shoify Stock Photos] (https://www.pexels.com/tr-tr/) <br>
+🔹 [Pexels] (https://www.shopify.com/stock-photos) <br>
 🔹 [Kaboompics] (https://kaboompics.com/)
 
 <br>
 <br>
 
 ## UI/UX 
-🔹 [Angle.sh] (https://angle.sh/)
-🔹 [Cleanmock] (https://cleanmock.com/)
-🔹 [Mockuuups] (https://mockuuups.studio/)
+🔹 [Angle.sh] (https://angle.sh/) <br>
+🔹 [Cleanmock] (https://cleanmock.com/) <br>
+🔹 [Mockuuups] (https://mockuuups.studio/) <br>
 🔹 [Device Frames] (https://deviceframes.com/)
 
 
